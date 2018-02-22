@@ -1,0 +1,19 @@
+{
+  "name": "fc-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv-safe": "^5.0.1",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6",
+    "uuid": "^3.2.1"
+  }
+}
